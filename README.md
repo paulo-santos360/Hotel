@@ -16,7 +16,7 @@ O Chalé Hotel é um projeto de website para um hotel imaginário. O objetivo de
 
 ## Como Visualizar o Projeto 🌐
 
-Você pode acessar o projeto online [aqui](https://seu-site.com/chale-hotel).
+Você pode acessar o projeto online [aqui](https://paulo-santos360.github.io/Hotel/).
 
 Para executar o projeto em sua máquina local, siga estas etapas:
 
